@@ -1,0 +1,1 @@
+python-tcxparser==git+git://github.com/noizwaves/python-tcxparser.git
